@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*awesome **cooking** skills*
+***active listener*** 
+novice **gardener**
+intermediate *painter*
+***teacher/mentor***
